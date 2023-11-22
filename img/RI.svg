@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="524 704 500 500" width="500" height="500">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="UML2Socket_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -3 4 6" markerWidth="4" markerHeight="6" color="#1a2746">
+      <g>
+        <path d="M -1.310625 1.310625 C .2184375 1.310625 .2184375 -1.310625 -1.310625 -1.310625" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-4 -3 5 6" markerWidth="5" markerHeight="6" color="#1a2746">
+      <g>
+        <circle cx="-1.3106244" cy="0" r="1.31062384170603" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 5 6" markerWidth="5" markerHeight="6" color="#1a2746">
+      <g>
+        <circle cx="1.0737495" cy="0" r="1.07374905104957" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="UML2Socket_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 4 6" markerWidth="4" markerHeight="6" color="#1a2746">
+      <g>
+        <path d="M 1.07375 -1.07375 C -.17895833 -1.07375 -.17895833 1.07375 1.07375 1.07375" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="ODA_RI" fill-opacity="1" stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>ODA RI</title>
+    <g id="ODA_RI_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_37">
+        <g id="Graphic_34">
+          <path d="M 959.6036 839.0374 L 772.4269 731.11 C 771.3816 730.5073 770.0942 730.508 769.0496 731.1119 L 581.9935 839.2463 C 580.37866 840.1798 579.82634 842.2456 580.75985 843.8604 C 581.0567 844.374 581.4836 844.8003 581.99755 845.0964 L 769.1743 952.9537 C 770.2191 953.5558 771.5057 953.5551 772.5499 952.9519 L 959.606 844.8876 C 961.2211 843.9545 961.774 841.8888 960.841 840.2738 C 960.5442 839.7601 960.1175 839.3337 959.6036 839.0374 Z" fill="#7a9c50"/>
+        </g>
+        <g id="Graphic_33">
+          <path d="M 776.0506 1174.9363 L 959.7338 1068.7502 C 961.3486 1067.8166 961.9009 1065.7508 960.9674 1064.136 C 960.6709 1063.623 960.2446 1063.1971 959.7314 1062.901 L 775.9297 956.8508 C 774.3141 955.9187 772.2487 956.4727 771.3166 958.0883 C 771.0201 958.6021 770.8642 959.1849 770.8646 959.778 L 770.983 1172.0143 C 770.984 1173.8795 772.49695 1175.3908 774.3622 1175.3897 C 774.955 1175.3894 775.5373 1175.233 776.0506 1174.9363 Z" fill="#e0151d"/>
+        </g>
+        <g id="Graphic_32">
+          <path d="M 964.6761 847.8082 L 964.7929 1059.9721 C 964.794 1061.8373 963.2827 1063.3502 961.4175 1063.3512 C 960.8243 1063.3516 960.2415 1063.1957 959.7278 1062.8992 L 775.9294 956.8501 C 774.3138 955.9179 773.7598 953.8525 774.692 952.2369 C 774.9883 951.7234 775.4145 951.297 775.9278 951.0004 L 959.6094 844.8857 C 961.2244 843.9526 963.2901 844.5055 964.2232 846.1206 C 964.5196 846.6337 964.6758 847.2157 964.6761 847.8082 Z" fill="#f9ba42"/>
+        </g>
+        <g id="Graphic_31">
+          <path d="M 576.9312 848.0233 L 577.04965 1060.1888 C 577.0507 1062.054 578.5636 1063.5653 580.42885 1063.5642 C 581.022 1063.5639 581.60464 1063.4073 582.1181 1063.1103 L 765.798 956.8547 C 767.4126 955.9207 767.9643 953.8547 767.0303 952.2402 C 766.7334 951.727 766.3067 951.301 765.7931 951.0051 L 581.9947 845.0952 C 580.3786 844.1639 578.3135 844.7191 577.3823 846.3352 C 577.08645 846.8486 576.9309 847.4308 576.9312 848.0233 Z" fill="#6496cd"/>
+        </g>
+        <g id="Graphic_30">
+          <path d="M 765.91865 1174.9419 L 582.11865 1068.9606 C 580.5028 1068.0289 579.9482 1065.9637 580.8799 1064.3478 C 581.1759 1063.8346 581.6017 1063.4082 582.11456 1063.1115 L 765.7961 956.8565 C 767.4107 955.9225 769.4767 956.4743 770.4107 958.0888 C 770.7077 958.6023 770.8642 959.1849 770.8646 959.778 L 770.983 1172.0143 C 770.984 1173.8795 769.4728 1175.3924 767.6076 1175.3935 C 767.0147 1175.3938 766.4322 1175.238 765.91865 1174.9419 Z" fill="#d2d4d9"/>
+        </g>
+        <g id="Graphic_29"/>
+        <g id="Graphic_28"/>
+        <g id="Graphic_27"/>
+        <g id="Graphic_26">
+          <circle cx="770.8002" cy="953.892" r="45.2573415238998" fill="#d3d4da"/>
+        </g>
+        <g id="Graphic_25"/>
+        <g id="Graphic_24"/>
+        <g id="Line_22">
+          <path d="M 764.3927 985.0703 L 738.3622 1002.2135 L 737.01554 1004.7462" marker-start="url(#UML2Socket_Marker)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3773087"/>
+        </g>
+        <g id="Line_21">
+          <path d="M 746.6088 981.3793 L 746.936 1011.0459 L 745.58935 1013.5786" marker-start="url(#Ball_Marker)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.3773087"/>
+        </g>
+        <g id="Graphic_20">
+          <title>Cylinder</title>
+          <path d="M 754.8694 960.5988 L 754.8694 936.274 C 754.8694 934.5955 762.0064 933.2334 770.8002 933.2334 C 779.59395 933.2334 786.7309 934.5955 786.7309 936.274 L 786.7309 960.5988 C 786.7309 962.2772 779.59395 963.6394 770.8002 963.6394 C 762.0064 963.6394 754.8694 962.2772 754.8694 960.5988 M 754.8694 936.274 C 754.8694 937.9524 762.0064 939.3146 770.8002 939.3146 C 779.59395 939.3146 786.7309 937.9524 786.7309 936.274" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0058048"/>
+        </g>
+        <g id="Line_19">
+          <line x1="862.9339" y1="1126.5224" x2="876.3417" y2="1152.1001" marker-end="url(#Ball_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_18">
+          <line x1="882.7881" y1="1115.045" x2="900.8895" y2="1141.5085" marker-end="url(#UML2Socket_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_17">
+          <line x1="967.6305" y1="967.654" x2="997.2472" y2="969.8477" marker-end="url(#Ball_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_16">
+          <line x1="967.6174" y1="944.0985" x2="1002.1007" y2="942.4993" marker-end="url(#UML2Socket_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_15">
+          <line x1="877.2456" y1="788.0763" x2="891.9647" y2="764.9739" marker-end="url(#Ball_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_14">
+          <line x1="856.9634" y1="776.3813" x2="869.0022" y2="751.3135" marker-end="url(#UML2Socket_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_13">
+          <line x1="666.6412" y1="788.22285" x2="651.236" y2="764.1193" marker-end="url(#Ball_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_12">
+          <line x1="686.80584" y1="776.5658" x2="674.7736" y2="751.642" marker-end="url(#UML2Socket_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_11">
+          <line x1="576.5093" y1="967.6198" x2="547.4574" y2="969.7668" marker-end="url(#Ball_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Line_10">
+          <line x1="576.4956" y1="942.91" x2="545.8958" y2="941.305" marker-end="url(#UML2Socket_Marker_2)" stroke="#1a2746" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.065963"/>
+        </g>
+        <g id="Graphic_23">
+          <title>Bézier</title>
+          <path d="M 783.256 735.8296 C 777.0299 732.2412 766.8473 732.24625 760.6263 735.8414 L 589.439 834.8033 C 583.218 838.4001 578.13005 847.2217 578.1351 854.4086 L 578.2449 1052.1415 C 578.24826 1059.3285 583.3446 1068.1449 589.5707 1071.7333 L 760.8678 1170.5061 C 767.0922 1174.0945 777.2764 1174.0894 783.4974 1170.4926 L 954.6848 1071.5324 C 960.9058 1067.9355 965.992 1059.1123 965.9886 1051.9271 L 965.8789 854.1941 C 965.8755 847.0072 960.7774 838.1907 954.5531 834.6023 L 783.256 735.8296 Z" stroke="#1a2746" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="3.3773087"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
